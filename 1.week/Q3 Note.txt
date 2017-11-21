@@ -1,0 +1,6 @@
+-Bölme iþleminde tam bölünmeyen sayýlar yazdýðýmýzda program kendini kapattý
+çünkü programda sayýlar için %d kullanýldý.Kesin bir bilgiye ulaþamadým ama
+%f kullanýrsak sorunu çözebiliriz.
+
+-Çýkarma iþleminde ilk sayýya küçük ikinci sayýya büyük yazýnca program kendini
+kapattý çünkü sayý için %d kullanýldý.Negatif sayýlar nasýl kullanýlýyor bilgim yok.
